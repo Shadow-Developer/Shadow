@@ -3,5 +3,6 @@
   "Version": "1.5.2",
   "Discord": "ZUrj5MH",
   "Roblox": "version-4e8d93f836b64931",
-  "DisableDiscord": "true"
+  "DisableDiscord": "true",
+  "DisableNoKeySystem": "false"
 }
