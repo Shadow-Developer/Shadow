@@ -4,5 +4,7 @@
   "Discord": "dVtzFzK",
   "Roblox": "version-cc7ad37d688d4cd3",
   "DisableDiscord": "true",
-  "DisableNoKeySystem": "false"
+  "DisableNoKeySystem": "false",
+  "ShadowCompilerVersion": "1.0.0",
+  "ShadowInterpreterVersion": "1.0.0"
 }
