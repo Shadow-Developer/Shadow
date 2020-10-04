@@ -3,7 +3,7 @@
   "Version": "1.5.3",
   "Discord": "ee3NxQ",
   "Roblox": "version-181941c15130443b",
-  "DisableDiscord": "false",
+  "DisableDiscord": "true",
   "DisableNoKeySystem": "false",
   "ShadowCompilerVersion": "1.0.5",
   "ShadowInterpreterVersion": "1.0.3"
