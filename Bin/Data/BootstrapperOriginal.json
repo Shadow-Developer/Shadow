@@ -5,6 +5,6 @@
   "Roblox": "version-c180747f2f824fb6",
   "DisableDiscord": "true",
   "DisableNoKeySystem": "false",
-  "ShadowCompilerVersion": "1.0.9",
-  "ShadowInterpreterVersion": "1.0.7"
+  "ShadowCompilerVersion": "1.1.0",
+  "ShadowInterpreterVersion": "1.0.8"
 }
