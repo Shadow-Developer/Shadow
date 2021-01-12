@@ -16,7 +16,8 @@
     "Version": "3.0.0"
   },
   "Roblox": {
-    "Version": "version-c180747f2f824fb6"
+    "Shadow": "version-c180747f2f824fb6",
+    "Client": "version-c180747f2f824fb6"
   },
   "Discord": {
     "Server": "https://discord.gg/yV8zWsvBaN"
