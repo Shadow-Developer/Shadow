@@ -1,0 +1,24 @@
+{
+  "Bootstrapper": {
+    "Name": "Shadow Bootstrapper",
+    "Description": "Scripting with Confidence",
+    "Version": "3.0.0",
+    "Download": "https://www.shadowcheats.com/download/cheats/shadow"
+  },
+  "Shadow": {
+    "Name": "Shadow",
+    "Description": "Scripting with Confidence",
+    "Version": "3.0.0"
+  },
+  "Module": {
+    "Name": "Module",
+    "Description": "Scripting with Confidence",
+    "Version": "3.0.0"
+  },
+  "Roblox": {
+    "Version": "version-c180747f2f824fb6"
+  },
+  "Discord": {
+    "Server": "https://discord.gg/yV8zWsvBaN"
+  }
+}
